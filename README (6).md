@@ -9,7 +9,7 @@ Users will be able to filter the UFO sightings table based on a variety of facto
 
  
 ## Results
-All the filters were made perfectly to find a event date,state,city,state,nation, and shape.![ufo sightings](https://user-images.githubusercontent.com/114198811/222853728-0d3ed6f2-84c5-4a15-9ba9-d02c89399c83.png)
+All the filters were made perfectly to find a event date,state,city,nation, and shape.![ufo sightings](https://user-images.githubusercontent.com/114198811/222853728-0d3ed6f2-84c5-4a15-9ba9-d02c89399c83.png)
 
 
 ![Screenshot 2023-03-03 181922](https://user-images.githubusercontent.com/114198811/222853668-6f68e6ec-1097-48d9-8da1-1f70d71e6e23.png)
